@@ -1,0 +1,5 @@
+package com.askviky.communityservice.listener;
+
+public interface OnViewChangeListener {
+	public void OnViewChange(int view);
+}
